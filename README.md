@@ -1,3 +1,26 @@
+## warehouse_ros (jazzy) - 2.0.4-6
+
+The packages in the `warehouse_ros` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy warehouse_ros --override-release-repository-push-url git@github.com:revyos-ros/warehouse_ros-release` on `Fri, 21 Jun 2024 10:55:20 -0000`
+
+The `warehouse_ros` package was released.
+
+Version of package(s) in repository `warehouse_ros`:
+
+- upstream repository: https://github.com/ros-planning/warehouse_ros.git
+- release repository: https://github.com/revyos-ros/warehouse_ros-release.git
+- rosdistro version: `2.0.4-6`
+- old version: `2.0.4-5`
+- new version: `2.0.4-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## warehouse_ros (rolling) - 2.0.4-1
 
 The packages in the `warehouse_ros` repository were released into the `rolling` distro by running `/usr/bin/bloom-release warehouse_ros -t rolling -r rolling` on `Mon, 27 Sep 2021 20:13:55 -0000`
